@@ -1,0 +1,6 @@
+c:\users\yaël\documents\visual studio 2015\Projects\SecondDegreApp\SecondDegreApp\bin\Debug\SecondDegreApp.exe.config
+c:\users\yaël\documents\visual studio 2015\Projects\SecondDegreApp\SecondDegreApp\obj\Debug\SecondDegreApp.csprojResolveAssemblyReference.cache
+c:\users\yaël\documents\visual studio 2015\Projects\SecondDegreApp\SecondDegreApp\bin\Debug\SecondDegreApp.exe
+c:\users\yaël\documents\visual studio 2015\Projects\SecondDegreApp\SecondDegreApp\bin\Debug\SecondDegreApp.pdb
+c:\users\yaël\documents\visual studio 2015\Projects\SecondDegreApp\SecondDegreApp\obj\Debug\SecondDegreApp.exe
+c:\users\yaël\documents\visual studio 2015\Projects\SecondDegreApp\SecondDegreApp\obj\Debug\SecondDegreApp.pdb
